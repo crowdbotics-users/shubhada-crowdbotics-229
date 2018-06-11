@@ -14,3 +14,4 @@ django-guardian
 django-guardian
 django-social-auth
 django-oscar
+django-oscar
