@@ -12,3 +12,4 @@ django-allauth
 django-allauth
 django-guardian
 django-guardian
+django-social-auth
